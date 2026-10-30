@@ -18,6 +18,7 @@ publisher = "Chromaforge contributors"
 bundle_id = "com.emmertex.chromaforge"       # [identity] app_id in upstream's brand.toml
 msi_publisher = "Chromaforge contributors"   # Manufacturer in upstream's MSI
 website = "https://github.com/emmertex/chromaforge"
+web_demo = "https://playground.daijro.dev/lightcraft-classic/"   # playground.daijro.dev's build of the latest release
 color = "#3fa3bf"
 # Upstream's executable is still lightcraft-classic.exe (its former name); listing that as a
 # former id lets the launcher find it in the portable zip.
